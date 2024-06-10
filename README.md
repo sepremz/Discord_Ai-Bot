@@ -1,4 +1,5 @@
-# Discord_Ai-Bot README
+# Discord_Ai-Bot
+![Screenshot 2024-06-10 172053](https://github.com/sepremz/Discord_Ai-Bot/assets/72527110/1c3b05dc-00d2-4aee-bdf8-44c2fe9d0d23)
 Discord_Ai Bot using Python
 
 ## Installation
@@ -14,5 +15,3 @@ Discord_Ai Bot using Python
 - you can change the prefix of the bot in the python file! bot = commands.Bot(command_prefix='/', intents=intents)
 - and you can alose change the key word after the prefix! @bot.command(name='ai')
 - in my option I used prefix "/" and the key word is "ai"
-
-![Screenshot 2024-06-10 172053](https://github.com/sepremz/Discord_Ai-Bot/assets/72527110/1c3b05dc-00d2-4aee-bdf8-44c2fe9d0d23)
