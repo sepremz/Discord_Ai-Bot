@@ -15,3 +15,4 @@ Discord_Ai Bot using Python
 - and you can alose change the key word after the prefix! @bot.command(name='ai')
 - in my option I used prefix "/" and the key word is "ai"
 
+![Screenshot 2024-06-10 172053](https://github.com/sepremz/Discord_Ai-Bot/assets/72527110/1c3b05dc-00d2-4aee-bdf8-44c2fe9d0d23)
